@@ -1,0 +1,16 @@
+[
+{
+  "modid": "samhaloworld",
+  "name": "SamHaloWorld Mod",
+  "description": "Le mod pour le SaHaloWorld !.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://mrsamhalo.franceserv.com/",
+  "updateUrl": "",
+  "authors": ["samhalo007"],
+  "credits": "samhalo007, le créateur du mod !",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
